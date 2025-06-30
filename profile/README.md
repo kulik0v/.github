@@ -1,2 +1,2 @@
 # Hi there and welcome :)
-[All my public repositoriesLoading are moved here](https://github.com/nagolos)
+[All my public repositories are here](https://github.com/nagolos)
